@@ -1,11 +1,3 @@
-/*
-North Paw 2.0 code, Eric Boyd, Sensebridge.net
-Released under CC-NC-SA.
-
-You'll need to get Pololu's LSM303 compass library:
-https://github.com/pololu/LSM303
-*/
-
 #include <Wire.h>
 #include <math.h>
 #include <LSM303.h>
